@@ -31,4 +31,6 @@ Yaowei Han, Yang Cao, Sheng Li, Qiang Ma, and Masatoshi Yoshikawa. <br>
 
 Yaowei Han (Kyoto University)
 
-Yang Cao (Kyoto University) yang@i.kyoto-u.ac.jp
+Sheng Li (Institute of Science Tokyo)
+
+Yang Cao (Institute of Science Tokyo) 
